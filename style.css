@@ -1,0 +1,75 @@
+body {
+background: rgb(231, 229, 229);
+
+}
+
+
+nav {
+
+    padding:0;
+    margin: 10;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    color:black;
+    background: white;
+}
+ 
+
+.navbar-brand {
+
+    color: white;
+    background: teal;
+  
+}
+
+.nav-link{
+
+    color:black;
+
+}
+ container {
+
+margin: 5px 15px 5 px 5px;
+padding: 25px 5px 25px 5px;
+
+ }
+    
+
+ 
+   H1 {
+       color: teal;
+       margin: 55px 0 15px 0;
+       padding: 25px 25px 25px 25px;
+   }
+
+   .row {
+
+    background: white;
+    
+    }
+       
+
+   p {
+
+    color: black;
+   }
+
+
+  //* a:hover {
+
+    color: black;
+
+   }
+   *//
+
+   button {
+
+    background: teal;
+    color: white;
+
+
+
+
+
+    }   
+  
